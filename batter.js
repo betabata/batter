@@ -125,4 +125,4 @@ function clean(text) {
       return text;
 }
 
-client.login("MjkxNjM2ODA5NjM1NDYzMTY5.C6_slQ.QOOTu1wY6I3dr42YHjnrs0hbY4M");
+client.login("lmao you aint getting this one");
